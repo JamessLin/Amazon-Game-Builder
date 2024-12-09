@@ -1,4 +1,6 @@
 # Amazon-Game-Builder
 
 Idea:
-Building a 2d game with Unity 
+Building a 2D game with Unity.
+
+## James README file
