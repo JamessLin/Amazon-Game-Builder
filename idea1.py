@@ -1,1 +1,1 @@
-print("this team sucks")
+print("this team doesn't suck")
