@@ -1,1 +1,3 @@
 # Amazon-Game-Builder
+
+Idea:
