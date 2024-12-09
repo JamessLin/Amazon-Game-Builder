@@ -1,1 +1,1 @@
-print("Hello world")
+print("this team sucks")
